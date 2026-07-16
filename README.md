@@ -181,7 +181,7 @@ I enjoy building practical projects, troubleshooting technical problems, and lea
     <td width="50%" valign="top">
       <h3>
         <a href="https://github.com/SwitLegend/thesis-web">
-          Integrated Pharmacy Management System
+          Integrated Pharmacy Management System with Digital Queuing and Smart Reservation
         </a>
       </h3>
       <p>
