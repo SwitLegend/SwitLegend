@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0A192F,100:00BFFF&text=Switberto%20Silvosa&fontColor=E6F7FF&fontSize=44&fontAlignY=38&desc=Computer%20Engineering%20Graduate%20%7C%20Developer%20%7C%20IT%20Support&descAlignY=58&descSize=16&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0D1117,50:0A192F,100:00BFFF&amp;text=Switberto%20Silvosa&amp;fontColor=E6F7FF&amp;fontSize=44&amp;fontAlignY=38&amp;desc=Computer%20Engineering%20Graduate%20%7C%20Developer%20%7C%20IT%20Support&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn"
     width="100%"
     alt="Switberto Silvosa profile banner"
   />
@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Graduate;Aspiring+Software+Developer;IT+Support+and+Troubleshooting;Web+and+Embedded+Systems+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=16&amp;duration=2800&amp;pause=900&amp;color=00BFFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Computer+Engineering+Graduate;Aspiring+Software+Developer;IT+Support+and+Troubleshooting;Web+and+Embedded+Systems+Enthusiast"
     alt="Professional interests"
   />
 </p>
@@ -20,13 +20,13 @@
 <p align="center">
   <a href="https://linkedin.com/in/switberto">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
       alt="Connect with Switberto on LinkedIn"
     />
   </a>
   <a href="mailto:switbertosilvosa33@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-Contact_Me-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-Contact_Me-00BFFF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
       alt="Email Switberto"
     />
   </a>
@@ -79,37 +79,37 @@ I enjoy building practical projects, troubleshooting technical problems, and lea
         Languages and technologies I use to create software and web-based projects.
       </p>
       <img
-        src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark&perline=5"
+        src="https://skillicons.dev/icons?i=java,python,js,html,css&amp;theme=dark&amp;perline=5"
         alt="Java, Python, JavaScript, HTML and CSS"
       />
     </td>
     <td width="34%" valign="top">
-      <h3>Platforms & Hardware</h3>
+      <h3>Platforms &amp; Hardware</h3>
       <p>
         Tools and platforms for development, deployment, hardware, and version control.
       </p>
       <img
-        src="https://skillicons.dev/icons?i=git,github,firebase,vercel,arduino,raspberrypi&theme=dark&perline=3"
+        src="https://skillicons.dev/icons?i=git,github,firebase,vercel,arduino,raspberrypi&amp;theme=dark&amp;perline=3"
         alt="Git, GitHub, Firebase, Vercel, Arduino and Raspberry Pi"
       />
       <br />
       <img
-        src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"
+        src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&amp;logo=cisco&amp;logoColor=white"
         alt="Cisco"
       />
     </td>
     <td width="33%" valign="top">
-      <h3>Design & Multimedia</h3>
+      <h3>Design &amp; Multimedia</h3>
       <p>
         Creative tools I use for interface design, graphics, and multimedia content.
       </p>
       <img
-        src="https://skillicons.dev/icons?i=figma,ps,pr,ae&theme=dark&perline=4"
+        src="https://skillicons.dev/icons?i=figma,ps,pr,ae&amp;theme=dark&amp;perline=4"
         alt="Figma, Adobe Photoshop, Premiere Pro and After Effects"
       />
       <br />
       <img
-        src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"
+        src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&amp;logo=canva&amp;logoColor=white"
         alt="Canva"
       />
     </td>
@@ -151,14 +151,14 @@ I enjoy building practical projects, troubleshooting technical problems, and lea
   <a href="https://github.com/SwitLegend">
     <img
       height="180"
-      src="https://github-stats-extended.vercel.app/api?username=SwitLegend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9"
+      src="https://github-stats-extended.vercel.app/api?username=SwitLegend&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00BFFF&amp;icon_color=00BFFF&amp;text_color=C9D1D9"
       alt="Switberto's GitHub statistics"
     />
   </a>
   <a href="https://github.com/SwitLegend?tab=repositories">
     <img
       height="180"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=SwitLegend&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=SwitLegend&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00BFFF&amp;text_color=C9D1D9"
       alt="Switberto's most-used languages"
     />
   </a>
@@ -167,7 +167,7 @@ I enjoy building practical projects, troubleshooting technical problems, and lea
 <p align="center">
   <img
     width="70%"
-    src="https://streak-stats.demolab.com/?user=SwitLegend&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
+    src="https://streak-stats.demolab.com/?user=SwitLegend&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00BFFF&amp;fire=00BFFF&amp;currStreakLabel=00BFFF"
     alt="Switberto's GitHub contribution streak"
   />
 </p>
@@ -176,48 +176,55 @@ I enjoy building practical projects, troubleshooting technical problems, and lea
 
 ## Featured Projects
 
-<!--
-Replace the project names, descriptions, technologies, and repository links
-below with information from your actual GitHub projects.
--->
-
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>Project Name</h3>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/SwitLegend/thesis-web">
+          Integrated Pharmacy Management System
+        </a>
+      </h3>
       <p>
-        Add a short description explaining what the project does and the problem it solves.
+        A web-based pharmacy management system integrated with a Raspberry Pi-powered self-service kiosk to streamline pharmacy operations and improve customer service.
       </p>
       <p>
-        <sub><strong>Built with:</strong> Technology · Technology</sub>
+        The system includes inventory management, point-of-sale operations, digital queue monitoring, smart medicine reservations, user management, and a real-time dashboard. It also integrates a QR code scanner and thermal printer for automated medicine-information printing.
       </p>
-      <a href="https://github.com/SwitLegend">
-        View repository →
-      </a>
+      <p>
+        <sub>
+          <strong>Built with:</strong>
+          Java · HTML · CSS · Firebase · Raspberry Pi
+        </sub>
+      </p>
+      <p>
+        <a href="https://github.com/SwitLegend/thesis-web">
+          View repository →
+        </a>
+      </p>
     </td>
-    <td width="34%" valign="top">
-      <h3>Project Name</h3>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/SwitLegend/switberto-portfolio">
+          Personal Portfolio Website
+        </a>
+      </h3>
       <p>
-        Add a short description explaining what the project does and the problem it solves.
+        A modern and responsive personal portfolio website created to showcase my projects, technical skills, certifications, and professional experience.
       </p>
       <p>
-        <sub><strong>Built with:</strong> Technology · Technology</sub>
-      </p>
-      <a href="https://github.com/SwitLegend">
-        View repository →
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Project Name</h3>
-      <p>
-        Add a short description explaining what the project does and the problem it solves.
+        The website features smooth page transitions, interactive animations, GitHub integration, mobile-friendly layouts, and a clean user interface designed to provide an engaging experience for recruiters and employers.
       </p>
       <p>
-        <sub><strong>Built with:</strong> Technology · Technology</sub>
+        <sub>
+          <strong>Key features:</strong>
+          Responsive Design · Interactive Animations · GitHub Integration
+        </sub>
       </p>
-      <a href="https://github.com/SwitLegend">
-        View repository →
-      </a>
+      <p>
+        <a href="https://github.com/SwitLegend/switberto-portfolio">
+          View repository →
+        </a>
+      </p>
     </td>
   </tr>
 </table>
@@ -229,13 +236,13 @@ below with information from your actual GitHub projects.
 <p align="center">
   <a href="https://linkedin.com/in/switberto">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
       alt="LinkedIn"
     />
   </a>
   <a href="mailto:switbertosilvosa33@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-Contact_Me-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-Contact_Me-00BFFF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
       alt="Email"
     />
   </a>
@@ -244,31 +251,31 @@ below with information from your actual GitHub projects.
 <p align="center">
   <a href="https://facebook.com/switberto.silvosa.90">
     <img
-      src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"
+      src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white"
       alt="Facebook"
     />
   </a>
   <a href="https://instagram.com/swit4real">
     <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white"
       alt="Instagram"
     />
   </a>
   <a href="https://tiktok.com/@swit4real">
     <img
-      src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"
+      src="https://img.shields.io/badge/TikTok-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white"
       alt="TikTok"
     />
   </a>
   <a href="https://x.com/switberto4real">
     <img
-      src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"
+      src="https://img.shields.io/badge/X-000000?style=flat-square&amp;logo=x&amp;logoColor=white"
       alt="X"
     />
   </a>
   <a href="https://youtube.com/@UCyH94lzEXyVj7j5gqKI2LiQ">
     <img
-      src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"
+      src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white"
       alt="YouTube"
     />
   </a>
@@ -278,7 +285,7 @@ below with information from your actual GitHub projects.
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=SwitLegend&style=flat-square&color=00BFFF"
+    src="https://komarev.com/ghpvc/?username=SwitLegend&amp;style=flat-square&amp;color=00BFFF"
     alt="Profile views"
   />
 </p>
@@ -289,7 +296,7 @@ below with information from your actual GitHub projects.
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:0A192F,100:00BFFF"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:0D1117,50:0A192F,100:00BFFF"
     width="100%"
     alt="Profile footer"
   />
