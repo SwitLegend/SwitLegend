@@ -1,97 +1,292 @@
-Create a complete and professional GitHub Profile README for me using Markdown and GitHub-compatible HTML.
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0A192F,100:00BFFF&text=Switberto%20Silvosa&fontColor=E6F7FF&fontSize=44&fontAlignY=38&desc=Computer%20Engineering%20Graduate%20%7C%20Developer%20%7C%20IT%20Support&descAlignY=58&descSize=16&animation=fadeIn"
+    width="100%"
+    alt="Switberto Silvosa profile banner"
+  />
+</p>
 
-My details:
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Graduate;Aspiring+Software+Developer;IT+Support+and+Troubleshooting;Web+and+Embedded+Systems+Enthusiast"
+    alt="Professional interests"
+  />
+</p>
 
-* Name: Switberto Silvosa
-* GitHub username: SwitLegend
-* Education: Computer Engineering graduate
-* Career interests: Software development, web development, IT support, troubleshooting, embedded systems, and computer networking
-* Current goal: I am looking for entry-level opportunities where I can contribute, gain professional experience, and grow as a developer and IT professional.
-* Personal strengths: Problem-solving, willingness to learn, adaptability, technical troubleshooting, creativity, and hands-on learning
-* Location: Philippines
+<p align="center">
+  Building practical digital solutions through code, technology, and continuous learning.
+</p>
 
-Write my “About Me” section in a natural, confident, and professional tone. Do not make it sound exaggerated, overly formal, generic, or AI-generated. Keep it concise and suitable for recruiters.
+<p align="center">
+  <a href="https://linkedin.com/in/switberto">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect with Switberto on LinkedIn"
+    />
+  </a>
+  <a href="mailto:switbertosilvosa33@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact_Me-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email Switberto"
+    />
+  </a>
+</p>
 
-Use this idea for my introduction:
+---
 
-“Hi, I’m Switberto, a Computer Engineering graduate interested in software development, web technologies, IT support, and embedded systems. I enjoy building practical projects, solving technical problems, and learning new tools through hands-on experience. I am continuously improving my programming, troubleshooting, and problem-solving skills. I am currently looking for opportunities where I can contribute, gain professional experience, and grow in the technology industry.”
+## About Me
 
-Create the README using the following sections:
+Hi, I’m **Switberto Silvosa**, a Computer Engineering graduate based in the Philippines. I am interested in software development, web technologies, IT support, networking, and embedded systems.
 
-1. Header
-2. Short professional introduction
-3. About Me
-4. Technical Skills
-5. Tools and Technologies
-6. GitHub Statistics
-7. Social Links
-8. Profile Views
+I enjoy building practical projects, troubleshooting technical problems, and learning through hands-on experience. I am currently strengthening my programming and problem-solving skills while seeking an entry-level opportunity where I can contribute, gain professional experience, and continue growing in the technology industry.
 
-Design requirements:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Currently Learning</strong>
+      <br />
+      <sub>Improving my development, troubleshooting, and technical skills.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Project Interests</strong>
+      <br />
+      <sub>Practical software, hardware, web, and embedded-system projects.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Career Goal</strong>
+      <br />
+      <sub>Open to entry-level technology roles and project collaborations.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Growth Mindset</strong>
+      <br />
+      <sub>Focused on continuous learning and meaningful technical growth.</sub>
+    </td>
+  </tr>
+</table>
 
-* Use a clean, modern, and professional layout.
-* Keep the design simple and not overcrowded.
-* Do not use excessive emojis.
-* Do not include gaming badges in the main technical skills section.
-* Use only technologies that I actually listed.
-* Group the technologies into clear categories.
-* Use flat-square badges for a consistent appearance.
-* Center only the header, statistics, and footer.
-* Avoid long paragraphs.
-* Do not include fake experience, fake projects, fake achievements, or fake skill levels.
-* Do not add a portfolio button unless a real portfolio URL is provided.
-* Do not use animated typing banners, GIFs, or unnecessary decorative graphics.
-* Make the README recruiter-friendly and easy to scan.
-* Ensure all HTML and Markdown work correctly on GitHub.
+---
 
-My programming languages and web technologies:
+## Technology
 
-* Java
-* Python
-* JavaScript
-* HTML5
-* CSS3
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Development</h3>
+      <p>
+        Languages and technologies I use to create software and web-based projects.
+      </p>
+      <img
+        src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark&perline=5"
+        alt="Java, Python, JavaScript, HTML and CSS"
+      />
+    </td>
+    <td width="34%" valign="top">
+      <h3>Platforms & Hardware</h3>
+      <p>
+        Tools and platforms for development, deployment, hardware, and version control.
+      </p>
+      <img
+        src="https://skillicons.dev/icons?i=git,github,firebase,vercel,arduino,raspberrypi&theme=dark&perline=3"
+        alt="Git, GitHub, Firebase, Vercel, Arduino and Raspberry Pi"
+      />
+      <br />
+      <img
+        src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"
+        alt="Cisco"
+      />
+    </td>
+    <td width="33%" valign="top">
+      <h3>Design & Multimedia</h3>
+      <p>
+        Creative tools I use for interface design, graphics, and multimedia content.
+      </p>
+      <img
+        src="https://skillicons.dev/icons?i=figma,ps,pr,ae&theme=dark&perline=4"
+        alt="Figma, Adobe Photoshop, Premiere Pro and After Effects"
+      />
+      <br />
+      <img
+        src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"
+        alt="Canva"
+      />
+    </td>
+  </tr>
+</table>
 
-My platforms and development tools:
+---
 
-* Git
-* GitHub
-* Firebase
-* Vercel
-* Arduino
-* Raspberry Pi
-* Cisco
+## Current Focus
 
-My design and multimedia tools:
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 · Build</h3>
+      <p>
+        Creating practical web applications that solve real problems and improve everyday processes.
+      </p>
+    </td>
+    <td width="34%" valign="top">
+      <h3>02 · Improve</h3>
+      <p>
+        Strengthening my programming, debugging, problem-solving, and software development skills.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 · Explore</h3>
+      <p>
+        Learning more about embedded systems, computer networking, and professional IT support.
+      </p>
+    </td>
+  </tr>
+</table>
 
-* Figma
-* Canva
-* Adobe Photoshop
-* Adobe Premiere Pro
-* Adobe After Effects
+---
 
-Use these social links:
+## GitHub Activity
 
-* Facebook: https://facebook.com/switberto.silvosa.90
-* Instagram: https://instagram.com/swit4real
-* LinkedIn: https://linkedin.com/in/switberto
-* TikTok: https://tiktok.com/@swit4real
-* X: https://x.com/switberto4real
-* YouTube: https://youtube.com/@UCyH94lzEXyVj7j5gqKI2LiQ
-* Email: mailto:switbertosilvosa33@gmail.com
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=SwitLegend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="Switberto's GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwitLegend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="Switberto's most-used languages"
+  />
+</p>
 
-Use these GitHub statistics services:
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=SwitLegend&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="Switberto's GitHub contribution streak"
+  />
+</p>
 
-* GitHub Stats:
-  https://github-readme-stats.shion.dev/api?username=SwitLegend&show_icons=true&theme=github_dark&hide_border=true
+---
 
-* Top Languages:
-  https://github-readme-stats.shion.dev/api/top-langs/?username=SwitLegend&layout=compact&theme=github_dark&hide_border=true
+## Featured Projects
 
-* GitHub Streak:
-  https://streak-stats.demolab.com/?user=SwitLegend&theme=github-dark-blue&hide_border=true
+<!--
+Replace each project name, description, technologies, and repository link
+with information from one of your actual GitHub projects.
+-->
 
-* Profile Views:
-  https://komarev.com/ghpvc/?username=SwitLegend&style=flat-square
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Project Name</h3>
+      <p>
+        Write a concise description explaining what the project does and the problem it addresses.
+      </p>
+      <p>
+        <sub><strong>Built with:</strong> Technology · Technology</sub>
+      </p>
+      <a href="https://github.com/SwitLegend">
+        View repository →
+      </a>
+    </td>
+    <td width="34%" valign="top">
+      <h3>Project Name</h3>
+      <p>
+        Write a concise description explaining what the project does and the problem it addresses.
+      </p>
+      <p>
+        <sub><strong>Built with:</strong> Technology · Technology</sub>
+      </p>
+      <a href="https://github.com/SwitLegend">
+        View repository →
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Project Name</h3>
+      <p>
+        Write a concise description explaining what the project does and the problem it addresses.
+      </p>
+      <p>
+        <sub><strong>Built with:</strong> Technology · Technology</sub>
+      </p>
+      <a href="https://github.com/SwitLegend">
+        View repository →
+      </a>
+    </td>
+  </tr>
+</table>
 
-Return only the final, complete README.md code. Do not add explanations before or after the code.
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/switberto">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:switbertosilvosa33@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact_Me-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://facebook.com/switberto.silvosa.90">
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
+  </a>
+  <a href="https://instagram.com/swit4real">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+  <a href="https://tiktok.com/@swit4real">
+    <img
+      src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"
+      alt="TikTok"
+    />
+  </a>
+  <a href="https://x.com/switberto4real">
+    <img
+      src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"
+      alt="X"
+    />
+  </a>
+  <a href="https://youtube.com/@UCyH94lzEXyVj7j5gqKI2LiQ">
+    <img
+      src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"
+      alt="YouTube"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=SwitLegend&style=flat-square&color=00BFFF"
+    alt="Profile views"
+  />
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting my profile.</sub>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:0A192F,100:00BFFF"
+    width="100%"
+    alt=""
+  />
+</p>
