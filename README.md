@@ -1,97 +1,97 @@
-<div align="center">
+Create a complete and professional GitHub Profile README for me using Markdown and GitHub-compatible HTML.
 
-# 👋 Hi, I'm Switberto
+My details:
 
-### Computer Engineering Graduate | Software Development | IT Support
+* Name: Switberto Silvosa
+* GitHub username: SwitLegend
+* Education: Computer Engineering graduate
+* Career interests: Software development, web development, IT support, troubleshooting, embedded systems, and computer networking
+* Current goal: I am looking for entry-level opportunities where I can contribute, gain professional experience, and grow as a developer and IT professional.
+* Personal strengths: Problem-solving, willingness to learn, adaptability, technical troubleshooting, creativity, and hands-on learning
+* Location: Philippines
 
-I build practical digital solutions, explore new technologies, and improve my skills through hands-on projects.
+Write my “About Me” section in a natural, confident, and professional tone. Do not make it sound exaggerated, overly formal, generic, or AI-generated. Keep it concise and suitable for recruiters.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/switberto)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:switbertosilvosa33@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-111111?style=flat-square\&logo=firefox\&logoColor=white)](#)
+Use this idea for my introduction:
 
-</div>
+“Hi, I’m Switberto, a Computer Engineering graduate interested in software development, web technologies, IT support, and embedded systems. I enjoy building practical projects, solving technical problems, and learning new tools through hands-on experience. I am continuously improving my programming, troubleshooting, and problem-solving skills. I am currently looking for opportunities where I can contribute, gain professional experience, and grow in the technology industry.”
 
----
+Create the README using the following sections:
 
-## About Me
+1. Header
+2. Short professional introduction
+3. About Me
+4. Technical Skills
+5. Tools and Technologies
+6. GitHub Statistics
+7. Social Links
+8. Profile Views
 
-```javascript
-const switberto = {
-  education: "Computer Engineering Graduate",
-  interests: [
-    "Software Development",
-    "Web Development",
-    "IT Support",
-    "Embedded Systems"
-  ],
-  currentlyLearning: "New technologies and development tools",
-  goal: "Build useful solutions and grow as a developer",
-  openToWork: true
-};
-```
+Design requirements:
 
----
+* Use a clean, modern, and professional layout.
+* Keep the design simple and not overcrowded.
+* Do not use excessive emojis.
+* Do not include gaming badges in the main technical skills section.
+* Use only technologies that I actually listed.
+* Group the technologies into clear categories.
+* Use flat-square badges for a consistent appearance.
+* Center only the header, statistics, and footer.
+* Avoid long paragraphs.
+* Do not include fake experience, fake projects, fake achievements, or fake skill levels.
+* Do not add a portfolio button unless a real portfolio URL is provided.
+* Do not use animated typing banners, GIFs, or unnecessary decorative graphics.
+* Make the README recruiter-friendly and easy to scan.
+* Ensure all HTML and Markdown work correctly on GitHub.
 
-## Technologies
+My programming languages and web technologies:
 
-### Languages
+* Java
+* Python
+* JavaScript
+* HTML5
+* CSS3
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+My platforms and development tools:
 
-### Tools and Platforms
+* Git
+* GitHub
+* Firebase
+* Vercel
+* Arduino
+* Raspberry Pi
+* Cisco
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square\&logo=raspberry-pi\&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square\&logo=cisco\&logoColor=white)
+My design and multimedia tools:
 
-### Design and Media
+* Figma
+* Canva
+* Adobe Photoshop
+* Adobe Premiere Pro
+* Adobe After Effects
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square\&logo=canva\&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square\&logo=adobephotoshop\&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square\&logo=adobepremierepro\&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square\&logo=adobeaftereffects\&logoColor=white)
+Use these social links:
 
----
+* Facebook: https://facebook.com/switberto.silvosa.90
+* Instagram: https://instagram.com/swit4real
+* LinkedIn: https://linkedin.com/in/switberto
+* TikTok: https://tiktok.com/@swit4real
+* X: https://x.com/switberto4real
+* YouTube: https://youtube.com/@UCyH94lzEXyVj7j5gqKI2LiQ
+* Email: mailto:switbertosilvosa33@gmail.com
 
-## GitHub Activity
+Use these GitHub statistics services:
 
-<div align="center">
+* GitHub Stats:
+  https://github-readme-stats.shion.dev/api?username=SwitLegend&show_icons=true&theme=github_dark&hide_border=true
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=SwitLegend&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/>
+* Top Languages:
+  https://github-readme-stats.shion.dev/api/top-langs/?username=SwitLegend&layout=compact&theme=github_dark&hide_border=true
 
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SwitLegend&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+* GitHub Streak:
+  https://streak-stats.demolab.com/?user=SwitLegend&theme=github-dark-blue&hide_border=true
 
-<img src="https://streak-stats.demolab.com/?user=SwitLegend&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+* Profile Views:
+  https://komarev.com/ghpvc/?username=SwitLegend&style=flat-square
 
-</div>
-
----
-
-## Connect With Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square\&logo=facebook\&logoColor=white)](https://facebook.com/switberto.silvosa.90)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/swit4real)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/switberto)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square\&logo=tiktok\&logoColor=white)](https://tiktok.com/@swit4real)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/switberto4real)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square\&logo=youtube\&logoColor=white)](https://youtube.com/@UCyH94lzEXyVj7j5gqKI2LiQ)
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SwitLegend\&style=flat-square)
-
-**Thanks for visiting my profile.**
-
-</div>
+Return only the final, complete README.md code. Do not add explanations before or after the code.
